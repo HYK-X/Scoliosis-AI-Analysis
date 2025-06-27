@@ -1,0 +1,23 @@
+path: ./Vertebrae_YOLO_Dataset
+train: images/train
+val: images/val
+test: images/test
+kpt_shape:
+- 4
+- 2
+flip_idx:
+- 1
+- 0
+- 3
+- 2
+names:
+  0: vertebra
+skeleton:
+- - 0
+  - 1
+- - 1
+  - 2
+- - 2
+  - 3
+- - 3
+  - 0
