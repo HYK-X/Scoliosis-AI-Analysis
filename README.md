@@ -9,7 +9,7 @@
 
 An AI-powered diagnostic platform for the automated analysis of scoliosis from X-ray images. This system utilizes the YOLOv11-Pose model for precise vertebra keypoint detection, calculates Cobb angles with multiple algorithms, and generates professional diagnostic reports via a Large Language Model (LLM). All features are integrated into an interactive Gradio web interface for clinical and research use.
 
-*(建议您将此处的图片链接替换为您自己应用的截图)*
+![Image](https://s2.loli.net/2025/06/27/4ZoqSsAnEeu7RKC.png)
 
 ## 核心功能 (Key Features)
 
