@@ -2,8 +2,6 @@
 
 # 智能脊柱侧弯AI辅助分析系统 (Intelligent Scoliosis AI Analysis System)
 
-[](https://www.python.org/downloads/)
-[](https://opensource.org/licenses/MIT)
 
 这是一个基于深度学习的AI辅助诊断平台，旨在实现对脊柱X光图像的自动化分析。系统通过YOLOv11-Pose模型精确识别椎体关键点，运用多种算法自动计算Cobb角，并可调用大语言模型（LLM）生成专业的诊断报告。所有功能均集成在一个交互式的Gradio Web界面中，方便临床和科研人员使用。
 
@@ -139,4 +137,4 @@ python web_ui.py
 
 ## 授权许可 (License)
 
-该项目采用 [MIT License] 授权。
+该项目采用 [MIT License](https://opensource.org/licenses/MIT) 授权。
